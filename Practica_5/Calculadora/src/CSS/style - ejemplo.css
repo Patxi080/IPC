@@ -1,0 +1,79 @@
+/*
+.background {
+    -fx-background-color: black;
+}*/
+/*Botones color naranja*/
+
+#resta {
+    -fx-background-color: #ffa500;
+    -fx-border-color: grey;
+    -fx-font-size: 25;
+    
+}
+#resta:hover {
+    -fx-background-color: #ffb600;
+}
+#resta:pressed{
+    -fx-background-color: white;
+}
+#suma {
+    -fx-background-color: #ffa500;
+    -fx-border-color: grey;
+    -fx-font-size: 25;
+}
+#suma:hover {
+    -fx-background-color: #ffb600;
+}
+#suma:pressed{
+    -fx-background-color: white;
+}
+#igual {
+    -fx-background-color: #ffa500;
+    -fx-border-color: grey;
+    -fx-font-size: 25;
+}
+#igual:hover {
+    -fx-background-color: #ffb600;
+}
+#igual:pressed{
+    -fx-background-color: white;
+}
+.button{
+    -fx-background-color: #c0c0c0;
+    -fx-border-color: grey;  
+    -fx-font-size: 25;
+}
+
+.button:hover {
+    -fx-background-color: darkgray;
+}
+.button:pressed{
+    -fx-background-color: white;
+}
+
+/*
+.orange-button {
+    -fx-background-color: orange;
+}*/
+
+/*Campo de texto*/
+#textField{
+    -fx-background-color: black;
+    -fx-font-size: 30;
+    -fx-text-fill:white;
+}
+
+/*Pas numérico*/
+#numberPad{
+    
+    
+}
+
+/*#button-1 {
+-fx-text-fill: rgba(17, 145, 213);
+-fx-border-color: rgba(255, 255, 255, .80);
+-fx-border-radius: 8;
+-fx-padding: 6 6 6 6;
+-fx-font: bold italic 12pt "LucidaBrightDemiBold";
+}
+*/
